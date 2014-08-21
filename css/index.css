@@ -1,0 +1,36 @@
+@charset "UTF-8";
+
+#img1{
+//display:block;
+float:left;
+}
+#text{
+width:960px;
+height:70px;
+font-size:13px;
+display:block
+}
+#text >p{
+padding-top:10px;
+margin-left:10px;
+}
+#nav{
+display:block;
+list-style-type:none;
+margin:0;
+padding:0;
+overflow:hidden;
+}
+#nav > li{
+//border:1px solid #300;
+height:50px;
+width:187px;
+text-align:center;
+line-height:50px;
+display:block;
+float:left;
+}
+a{
+text-decoration:none;
+}
+
